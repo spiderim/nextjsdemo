@@ -1,8 +1,2 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-    env: {
-        customKey: 1,
-        },
-};
+/* @type {import('next').NextConfig} */
 
-export default nextConfig;
