@@ -1,0 +1,5 @@
+# oryx.yml
+
+# Specify Node.js version
+language: nodejs
+nodeVersion: 20.11.1
