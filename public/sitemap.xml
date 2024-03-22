@@ -7,6 +7,12 @@
     <lastmod>2021-02-18</lastmod>
   </url>
   <url>
+    <loc>http://localhost:3000/notfound</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2021-02-18</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:3000/redirect1</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
